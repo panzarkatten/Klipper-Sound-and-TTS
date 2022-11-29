@@ -5,7 +5,8 @@ Can only play .wav files.
 
 ## Installation
 Install the gcode_shell_command.py module to Klipper
- - Download **gcode_shell_command.py** from https://github.com/th33xitus/kiauh/tree/master/resources
- - Copy gcode_shell_command.py to ~\klipper\klippy\extras\
+ 1. Download **gcode_shell_command.py** from https://github.com/th33xitus/kiauh/tree/master/resources
+ 2. Copy **gcode_shell_command.py** to ~\klipper\klippy\extras\
+ 3. Reboot Pi
 
 
